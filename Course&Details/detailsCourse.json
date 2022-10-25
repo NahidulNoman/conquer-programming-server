@@ -2,7 +2,7 @@
     {
       "id": 1,
       "courseName": "learn HTML 🎓!",
-      "courseTittle": "Welcome to Learn HTML!",
+      "courseTittle": "Welcome to Learn HTML 🎓!",
       "price": 99,
       "enrolled": 488,
       "img": "https://img.freepik.com/free-photo/design-html-web-design-template-concept_53876-120438.jpg?w=900&t=st=1666708108~exp=1666708708~hmac=0ea3cb0f41d14b5eb0f36525c3016bab1d50708a6b1ea4d5fd4d2502cca0f9f8",
@@ -23,14 +23,14 @@
     {
       "id": 2,
       "courseName": "learn CSS & Responsive 🎓!",
-      "courseTittle": "Welcome to Learn Responsive Design!",
+      "courseTittle": "Welcome to Learn Responsive Design 🎓!",
       "price": 129,
       "img": "https://img.freepik.com/free-photo/creative-3d-render-astronaut-flying-with-rocket-play-video-buttoon-web-development-banner-marketing-material-presentation-online-advertising_460848-11470.jpg?w=826&t=st=1666708157~exp=1666708757~hmac=ac90f8f1204d8b4a8ca382dc4c9b092a3a57fe5160370a8057bfeb0d98540363",
       "description": "This course takes you on a journey through the many facets of modern responsive web design. The first few modules will ease you in with a history of where responsive design came from and a look at the fundamentals of responsive layouts. From there, you’ll learn about responsive images, typography, accessibility and more. Along the way you’ll find out how to make websites responsive to user preferences and device capabilities. By the end, you’ll also have an understanding of what the future might hold for responsive design. This course is created for beginner and intermediate designers and developers. A basic understanding of HTML and CSS should be enough. Each module has demos and self-assessments for you to test your knowledge.",
       "enrolled": 377,
       "level": "Beginner",
       "rating": 4.8,
-      "courseDuration": "1-1.5 months",
+      "courseDuration": "1.5 months",
       "topic": [
         "CSS Class and Id",
         "Media queries",
@@ -43,7 +43,7 @@
     {
       "id": 3,
       "courseName": "learn Github Deploy 🎓!",
-      "courseTittle": "Welcome to learn Github Deploy!",
+      "courseTittle": "Welcome to learn Github Deploy 🎓!",
       "price": 150,
       "enrolled": 309,
       "img": "https://images.ctfassets.net/wfutmusr1t3h/4kuwpLelaXWaS61cppKhvk/9ec6caf92c0d5162cea929c6bb047597/Screen_Shot_2022-08-12_at_12.50.09_PM.png?w=1280&q=75",
@@ -62,7 +62,7 @@
     {
       "id": 4,
       "courseName": "learn JavaScript 🎓!",
-      "courseTittle": "Welcome to learn JavaScript !",
+      "courseTittle": "Welcome to learn JavaScript 🎓!",
       "price": 229,
       "enrolled": 428,
       "img": "https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=826&t=st=1666708366~exp=1666708966~hmac=662dee41f7e8344cf67cc371deb88eb843fab1ff7e0cae07200cadab5e0a9518",
@@ -82,7 +82,7 @@
     {
       "id": 5,
       "courseName": "learn API 🎓!",
-      "courseTittle": "Welcome to learn API !",
+      "courseTittle": "Welcome to learn API 🎓!",
       "price": 220,
       "enrolled": 398,
       "img": "https://img.freepik.com/free-photo/group-people-network-circuit-board-link-connection-technology_1379-887.jpg?w=826&t=st=1666708612~exp=1666709212~hmac=7457c8ad6b7886beb20bb7126cbc9c58f204a9c3c857808c1ff97550de79a8c1",
@@ -97,7 +97,7 @@
     {
       "id": 6,
       "courseName": "learn React 🎓!",
-      "courseTittle": "Welcome to learn React! !",
+      "courseTittle": "Welcome to learn React 🎓!",
       "price": 420,
       "enrolled": 498,
       "img": "https://img.freepik.com/free-vector/application-development-banner_1325-399.jpg?w=826&t=st=1666708444~exp=1666709044~hmac=aaf2084a7327e0a5d51ba0ab380fe0219ae3a3762921871ed872f1998237f488",
