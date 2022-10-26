@@ -21,7 +21,6 @@ app.get('/courseDetails/:id', (req,res) => {
     const selected = detailCourse.find( n => n.id === id)
     res.send(selected)
 });
-
 app.listen(port , () => {
     console.log('conquer server is running ...')
 });
