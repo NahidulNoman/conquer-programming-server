@@ -7,7 +7,7 @@ app.use(cors());
 const categoryCourse = require('./Course&Details/CategoryCourse.json');
 const detailCourse = require('./Course&Details/detailsCourse.json');
 
-// test server
+// test server 
 app.get('/', (req,res) => {
     res.send('conquer server is running')
 });
