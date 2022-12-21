@@ -12,7 +12,7 @@ app.get('/', (req,res) => {
     res.send('conquer server is running')
 });
 
-// get side category API
+// get side category API 
 app.get('/courseCategory', (req,res) => {
     res.send(categoryCourse);
 });
